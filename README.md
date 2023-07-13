@@ -3,5 +3,5 @@ To install dependencies run
 ``npm i --legacy-peer-deps``
 
 Run ``npm start`` to initialize the project
-and Expo QR code provided  on your terminal
+and use Expo QR code provided  on your terminal
 for Android and iOS
